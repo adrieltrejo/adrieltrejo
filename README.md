@@ -5,8 +5,7 @@
 <h1 align="center">Hello 👋, I'm Adriel Trejo</h1>
 
 <p align="center">
-  <strong>Backend Developer con enfoque en desarrollo móvil multiplataforma.</strong><br>
-  📍 México
+  <strong>Backend & Mobile Developer.</strong><br>
 </p>
 
 ---
@@ -34,13 +33,4 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
----
-
-<h2 align="center">📬 Contacto</h2>
-<p align="center">
-  <a href="https://t.me/adrieel_t">
-    <img src="https://img.shields.io/badge/Adriel-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
 </p>
