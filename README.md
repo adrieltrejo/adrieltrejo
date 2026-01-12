@@ -5,7 +5,7 @@
 <h1 align="center">Hello 👋, I'm Adriel Trejo</h1>
 
 <p align="center">
-  <strong>Backend & Mobile Developer.</strong><br>
+  <strong>Software Engineer | Full Stack Developer | Web & Mobile.</strong><br>
 </p>
 
 ---
