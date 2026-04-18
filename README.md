@@ -1,10 +1,13 @@
+<p align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header" />
+
+</p>
 # Hi there, I'm Adriel Trejo 👋
 
 **Software Engineer | Full Stack Web & Mobile Developer**
 
 I'm a software engineer passionate about building clean, efficient, and scalable applications. With a strong foundation in system optimization and software architecture, my daily focus is on creating seamless user experiences across mobile and web platforms. 
-
-Currently, I'm developing **Split**, a mobile expense-sharing app built with React Native, TypeScript, and Tailwind CSS.
 
 ### 🛠 Tech Stack
 
