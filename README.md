@@ -56,7 +56,8 @@
 
 <h2 align="center">📫 Let's Connect</h2>
 
-  <a href="mailto:TU-CORREO-AQUI">
+<p align="center">
+  <a href="mailto:adrielsky12@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
